@@ -1,0 +1,14 @@
+.task-container {
+  position: relative;
+  z-index: 1;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  height: auto;
+  margin: 2rem auto;
+}
+.finished {
+  text-decoration: line-through;
+}
